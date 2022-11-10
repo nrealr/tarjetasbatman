@@ -1,0 +1,104 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+/* header */
+
+.desc{
+    background-color: #1CD1B0;
+}
+
+header nav p.styledesc{
+    margin-left: 10px;
+    
+
+}
+
+.maintitulo{
+    background-color: #00669F;
+    height: 100px;
+    box-shadow: 0px 10px 7px rgba(0, 0, 0, 0.25);
+}
+
+header div h2.styletitulo{
+    font-size: 2rem;
+    padding: 30px;
+    margin-left: -20px;
+    
+}
+
+/* header */
+
+/* tajerta 1*/
+
+body main section.tarjeta{
+    height: 530px;
+    width: 300px;
+    background-image: url(/img/fondobatman.png);
+    background-repeat: no-repeat;
+    display:inline-block;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 50px;
+    background-color: #F3F3F3;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+body main section.tarjetah{
+    height: 530px;
+    width: 300px;
+    background-image: url(/img/fondoharley.png);
+    background-repeat: no-repeat;
+    display:inline-block; 
+    margin-left: 50px;
+    background-color: #F3F3F3;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
+
+body main section div img.corazon{
+    margin-bottom: 250px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+body main section div img.perfilheroe{
+    padding: 40px;
+    border-radius: 50%;
+}
+
+.titulocard{
+    text-align: center;
+    margin-top: -20px;
+}
+
+.textcard{ 
+    text-align: justify;
+}
+
+body main section button.boton{ 
+    text-align: center;
+    margin-left: 110px;
+    margin-top: 50px;
+    color:white;
+    background-color: #00669F;
+}
+
+/* tarjeta */
+
+/* footer */
+
+footer.pie{
+    background-color: #00669F;
+    height: 30px;
+}
+
+footer .stylepie{
+    color: white;
+    padding: 5px;
+    font-size: 15px;
+}
+
+
+/* footer */
