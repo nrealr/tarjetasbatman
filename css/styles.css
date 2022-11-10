@@ -35,7 +35,7 @@ header div h2.styletitulo{
 body main section.tarjeta{
     height: 530px;
     width: 300px;
-    background-image: url(/img/fondobatman.png);
+    background-image: url(img/fondobatman.png);
     background-repeat: no-repeat;
     display:inline-block;
     margin-top: 100px;
@@ -48,7 +48,7 @@ body main section.tarjeta{
 body main section.tarjetah{
     height: 530px;
     width: 300px;
-    background-image: url(/img/fondoharley.png);
+    background-image: url(img/fondoharley.png);
     background-repeat: no-repeat;
     display:inline-block; 
     margin-left: 50px;
