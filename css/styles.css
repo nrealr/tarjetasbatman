@@ -44,7 +44,7 @@ body main section.tarjeta{
     display:inline-block;
     margin-top: 100px;
     margin-bottom: 100px;
-    margin-left: 50px;
+    margin-left: 120px;
     background-color: #F3F3F3;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     font-family: 'Roboto', sans-serif;
@@ -56,7 +56,7 @@ body main section.tarjetah{
     background-image: url('../img/fondoharley.png');
     background-repeat: no-repeat;
     display:inline-block; 
-    margin-left: 50px;
+    margin-left: 100px;
     background-color: #F3F3F3;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     font-family: 'Roboto', sans-serif;
