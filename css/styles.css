@@ -3,6 +3,8 @@
     margin: 0;
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700&display=swap');
+
 /* header */
 
 .desc{
@@ -11,6 +13,7 @@
 
 header nav p.styledesc{
     margin-left: 10px;
+    font-family: 'Roboto', sans-serif;
     
 
 }
@@ -25,6 +28,7 @@ header div h2.styletitulo{
     font-size: 2rem;
     padding: 30px;
     margin-left: -20px;
+    font-family: 'Roboto', sans-serif;
     
 }
 
@@ -43,6 +47,7 @@ body main section.tarjeta{
     margin-left: 50px;
     background-color: #F3F3F3;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-family: 'Roboto', sans-serif;
 }
 
 body main section.tarjetah{
@@ -54,6 +59,7 @@ body main section.tarjetah{
     margin-left: 50px;
     background-color: #F3F3F3;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-family: 'Roboto', sans-serif;
 
 }
 
@@ -61,11 +67,15 @@ body main section div img.corazon{
     margin-bottom: 250px;
     margin-left: 10px;
     margin-top: 10px;
+    width: 30px;
+    height: 26.25px;
 }
 
 body main section div img.perfilheroe{
     padding: 40px;
     border-radius: 50%;
+    width: 200px;
+    height: 200px;
 }
 
 .titulocard{
@@ -98,7 +108,8 @@ footer.pie{
 footer .stylepie{
     color: white;
     padding: 5px;
-    font-size: 15px;
+    font-size: 12px;
+    font-family: 'Roboto', sans-serif;
 }
 
 
